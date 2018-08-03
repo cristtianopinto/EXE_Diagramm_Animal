@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXE_Diagramm_Animal", "EXE_Diagramm_Animal\EXE_Diagramm_Animal.csproj", "{780D4895-93D3-4477-9D7C-1747F09AC362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780D4895-93D3-4477-9D7C-1747F09AC362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780D4895-93D3-4477-9D7C-1747F09AC362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780D4895-93D3-4477-9D7C-1747F09AC362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780D4895-93D3-4477-9D7C-1747F09AC362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84EB5B6A-8EED-45D0-AEEA-B6C8E26DE181}
+	EndGlobalSection
+EndGlobal
